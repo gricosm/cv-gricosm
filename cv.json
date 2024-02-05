@@ -1,0 +1,181 @@
+{
+  "basics": {
+    "name": "Guillermo Rico Sáinz-Maza",
+    "label": "Desarrollador Full Stack; trabajando con Vue, TypeScript, Python, Go y que surja.",
+    "image": "./images/me.webp",
+    "email": "gricosm@protonmail.com",
+    "phone": "",
+    "url": "https://johndoe.com",
+    "summary": "Desarrollador Full Stack con más de dos años de experiencia en el sector y con varios proyectos casos de éxito a mis espaldas. Especializado en Vue.js y TypeScript, también he trabajado con React.js, si hay que hace backend en mis proyectos siempre opto por Python pero no tengo problemas en utilizar Go e incluso sumergirme en el mundo .Net. Apasionado por aplicar metodologías ágiles, clean code y testing exhaustivo. Abierto a oportunidades remotas y en Zaragoza o Madrid, busco retos que me permitan innovar en arquitecturas complejas y tecnologías emergentes.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Zaragoza",
+      "countryCode": "ES",
+      "region": "Spain"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "gricosm",
+        "url": "https://linkedin.com/in/gricosm"
+      },
+      {
+        "network": "Github",
+        "username": "gricosm",
+        "url": "https://github.com/gricosm"
+      },
+      {
+        "network": "Twitter",
+        "username": "gricosm",
+        "url": "https://twitter.com/gricosm"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Flat 101",
+      "position": "Full Stack Developer",
+      "url": "https://www.flat101.es/",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "summary": "Numerosos proyectos entre los que des",
+      "highlights": [""]
+    },
+    {
+      "name": "Libelium",
+      "position": "Full Stack Developer",
+      "url": "https://www.libelium.com/es/",
+      "startDate": "2022-01-01",
+      "endDate": "2023-01-01",
+      "summary": "Trabajo en la aplicación de control de dispositivos para cliente. Cloud realizado en Vue, con un Laravel antiguo y que poco a poco se fue trasladando a Python.",
+      "highlights": [""]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
+    }
+  ],
+  "education": [
+    {
+      "institution": "UOC - Universitat Oberta de Catalunya",
+      "url": "https://www.uoc.edu/es/estudios/grados/grado-ingenieria-informatica",
+      "area": "Ingeniería Informática",
+      "studyType": "Grado Universitario",
+      "startDate": "2023-09-01",
+      "endDate": null,
+      "score": "",
+      "courses": [""]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Vue / NuxtJs",
+      "level": "Master",
+      "keywords": ["Web Development"]
+    },
+    {
+      "name": "React / NextJs",
+      "level": "Master",
+      "keywords": ["Web Development"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Master",
+      "keywords": ["Development"]
+    },
+    {
+      "name": "Python",
+      "level": "Master",
+      "keywords": ["Development"]
+    },
+    {
+      "name": "Adobe Suite",
+      "level": "Master",
+      "keywords": ["Multimedia"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Castellano",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "Profesional"
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "keywords": ["", ""]
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "Kill That Robot",
+      "startDate": "2013-10-06",
+      "endDate": null,
+      "description": "Description...",
+      "highlights": ["NuxtJS", "Podcast"],
+      "url": "https://www.killthatrobot.com/",
+      "isActive": true
+    },
+    {
+      "name": "KTR - Gjallarhorn",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "description": "App interna de KTR que permite tweetear, tootear y postear a la vez.",
+      "highlights": ["NuxtJS", "TypeScript"],
+      "url": "https://www.killthatrobot.com/",
+      "isActive": true
+    },
+    {
+      "name": "KTR - Lyfjaberg",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "description": "App interna de KTR que permite generar imágenes para las RRSS.",
+      "highlights": ["NuxtJS"],
+      "url": "https://www.killthatrobot.com/",
+      "isActive": true
+    }
+  ]
+}
