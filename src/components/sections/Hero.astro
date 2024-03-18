@@ -14,6 +14,16 @@ const ICONS: Record<string, any> = {
   Github,
   Twitter,
 };
+
+const linkedinInfo = profiles.find(({ network }) => network === "Linkedin");
+const linkedinUrl = linkedinInfo?.url;
+
+const githubInfo = profiles.find(({ network }) => network === "Github");
+const githubUrl = githubInfo?.url;
+
+const printInfo = [email, linkedinUrl, githubUrl]
+  .filter(Boolean)
+  .join(" &bull; ");
 ---
 
 <Section>
@@ -26,6 +36,9 @@ const ICONS: Record<string, any> = {
         {city}, {region}
       </span>
       <footer>
+        <div class="print">
+          {printInfo}
+        </div>
         {
           email && (
             <a
