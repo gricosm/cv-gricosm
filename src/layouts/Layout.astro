@@ -88,16 +88,16 @@ const { title } = Astro.props;
   }
 
   .print {
-    display: none;
+    display: none !important;
   }
 
   @media print {
     .print {
-      display: block;
+      display: block !important;
     }
 
     .no-print {
-      display: none;
+      display: none !important;
     }
   }
 </style>

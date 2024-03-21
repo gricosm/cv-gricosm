@@ -21,9 +21,7 @@ const linkedinUrl = linkedinInfo?.url;
 const githubInfo = profiles.find(({ network }) => network === "Github");
 const githubUrl = githubInfo?.url;
 
-const printInfo = [email, linkedinUrl, githubUrl]
-  .filter(Boolean)
-  .join(" &bull; ");
+const printInfo = [email, linkedinUrl, githubUrl].filter(Boolean).join(" · ");
 ---
 
 <Section>
@@ -35,10 +33,12 @@ const printInfo = [email, linkedinUrl, githubUrl]
         <Location />
         {city}, {region}
       </span>
-      <footer>
-        <div class="print">
-          {printInfo}
-        </div>
+
+      <footer class="print">
+        {printInfo}
+      </footer>
+
+      <footer class="no-print">
         {
           email && (
             <a
@@ -105,6 +105,7 @@ const printInfo = [email, linkedinUrl, githubUrl]
     border-radius: 1rem;
   }
   footer {
+    color: #3b3b3c;
     font-size: 0.65rem;
     display: flex;
     gap: 0.5rem;

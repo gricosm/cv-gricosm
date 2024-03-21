@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Guillermo Rico Sáinz-Maza",
-    "label": "Desarrollador Full Stack; trabajando con Vue, TypeScript, Python, Go y que surja.",
+    "label": "Desarrollador Full Stack; trabajando con Vue, React, TypeScript, Python, Go y lo que surja.",
     "image": "./images/me.webp",
     "email": "gricosm@protonmail.com",
     "phone": "",
     "url": "https://johndoe.com",
-    "summary": "Desarrollador Full Stack con más de dos años de experiencia en el sector y con varios proyectos casos de éxito a mis espaldas. Especializado en Vue.js y TypeScript, también he trabajado con React.js, si hay que hace backend en mis proyectos siempre opto por Python pero no tengo problemas en utilizar Go e incluso sumergirme en el mundo .Net. Apasionado por aplicar metodologías ágiles, clean code y testing exhaustivo. Abierto a oportunidades remotas y en Zaragoza o Madrid, busco retos que me permitan innovar en arquitecturas complejas y tecnologías emergentes.",
+    "summary": "Desarrollador Full Stack con más de dos años de experiencia en el sector y con varios casos de éxito a mis espaldas. Especializado en Vue.js y TypeScript, también he trabajado con React.js, si hay que hace backend en mis proyectos siempre opto por Python pero no tengo problemas en utilizar Go e incluso sumergirme en el mundo .Net. Apasionado por aplicar metodologías ágiles, clean code y testing exhaustivo. Abierto a oportunidades remotas y en Zaragoza o Madrid, busco retos que me permitan innovar en arquitecturas complejas y tecnologías emergentes.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -122,6 +122,11 @@
       "keywords": ["Development"]
     },
     {
+      "name": "Go",
+      "level": "Master",
+      "keywords": ["Development"]
+    },
+    {
       "name": "Adobe Suite",
       "level": "Master",
       "keywords": ["Multimedia"]
@@ -155,7 +160,7 @@
       "startDate": "2013-10-06",
       "endDate": null,
       "description": "Description...",
-      "highlights": ["NuxtJS", "Podcast"],
+      "highlights": ["NuxtJS", "TypeScript"],
       "url": "https://www.killthatrobot.com/",
       "isActive": true
     },
@@ -173,7 +178,16 @@
       "startDate": "2024-01-01",
       "endDate": null,
       "description": "App interna de KTR que permite generar imágenes para las RRSS.",
-      "highlights": ["NuxtJS"],
+      "highlights": ["NuxtJS", "TypeScript"],
+      "url": "https://www.killthatrobot.com/",
+      "isActive": true
+    },
+    {
+      "name": "KTR - Twitch Calendar",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "description": "App interna de KTR que permite generar un calendario basado en Twitch.",
+      "highlights": ["AstroJS", "TypeScript"],
       "url": "https://www.killthatrobot.com/",
       "isActive": true
     }
