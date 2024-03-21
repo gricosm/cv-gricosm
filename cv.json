@@ -183,7 +183,7 @@
       "isActive": true
     },
     {
-      "name": "KTR - Twitch Calendar",
+      "name": "KTR - Calendar",
       "startDate": "2024-01-01",
       "endDate": null,
       "description": "App interna de KTR que permite generar un calendario basado en Twitch.",
